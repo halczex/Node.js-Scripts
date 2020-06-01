@@ -1,2 +1,1 @@
-# NodeScript
-Some NodeJS Scripts
+# Node.js Scripts
